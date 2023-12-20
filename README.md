@@ -28,7 +28,7 @@ I'm currently studying at Acropolis Institute of Technology and Research, passio
 ## 🌟 Let's Learn Together
 
 - **LinkedIn:** [Sanskar Jain](https://www.linkedin.com/in/sanskar-jain-6697091a1/)
-- **Twitter:** [(https://x.com/Sanskar20227830?t=K80OwalJEqxkQMERns7ooQ&s=09)](https://x.com/Sanskar20227830?t=K80OwalJEqxkQMERns7ooQ&s=09)
+- **Twitter:** [Sanskar Jain](https://x.com/Sanskar20227830?t=K80OwalJEqxkQMERns7ooQ&s=09)
 
 ## 🌱 Connect and Grow
 
