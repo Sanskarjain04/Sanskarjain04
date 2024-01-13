@@ -18,7 +18,7 @@ I'm currently studying at Acropolis Institute of Technology and Research, passio
 ## 🚀 Experience & Involvements
 
 - 👨‍💻 Developer at [Acropolis Blockchain Club](#) - Contributing to blockchain projects and learning the ropes of decentralized systems.
-- 🤖 Member of [IEEE Computer Society](#) - Engaging with the tech community, staying updated on the latest trends, and fostering a passion for continuous learning.
+- 🤖 Web Master in [IEEE Computer Society](#) - Engaging with the tech community, staying updated on the latest trends, and fostering a passion for continuous learning.
 
 ## 🚀 Current Study Path
 
