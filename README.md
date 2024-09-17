@@ -5,7 +5,6 @@ I'm currently studying at Acropolis Institute of Technology and Research, passio
 ## 💻 Learning Toolkit
 
 - **JavaScript:** Crafting the building blocks of dynamic web applications.
-- **Solidity:** Delving into the world of decentralized applications and smart contracts.
 - **HTML & CSS:** Building the visual foundations of user interfaces.
 - **Node.js & Express:** Navigating the backend to bring ideas to life.
 - **MongoDB:** Diving into the world of NoSQL databases for scalable and flexible data storage.
