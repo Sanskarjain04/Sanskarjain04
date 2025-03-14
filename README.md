@@ -11,6 +11,7 @@ I'm currently studying at Acropolis Institute of Technology and Research, passio
 - **MERN Stack:** Building modern, full-stack web applications with MongoDB, Express, React, and Node.js.
 - **Next.js:** Enhancing React applications with server-side rendering and static site generation.
 - **React Native:** Creating seamless, cross-platform mobile experiences.
+- **Django:** Utilizing the power of most popular python backend framework.
 
 ## 🏆 Achievements
 
