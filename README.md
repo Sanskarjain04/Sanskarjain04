@@ -1,56 +1,103 @@
-# Hello there! 👋 I'm Sanskar Jain, a student on a learning adventure.
+# Hi 👋 I'm Sanskar Jain
 
-I'm currently studying at Acropolis Institute of Technology and Research, passionately exploring the vast world of technology. Here's a glimpse into my tech exploration:
+Full-Stack Developer with hands-on experience building scalable web applications using
+**MERN Stack and Next.js**. I enjoy designing clean backend architectures, building
+role-based systems, and shipping real-world products through hackathons and internships.
 
-## 💻 Learning Toolkit
+Currently pursuing **B.Tech in Computer Science Engineering** at  
+**Acropolis Institute of Technology and Research, Indore**.
 
-- **JavaScript:** Crafting the building blocks of dynamic web applications.
-- **HTML & CSS:** Building the visual foundations of user interfaces.
-- **Node.js & Express:** Navigating the backend to bring ideas to life.
-- **MongoDB:** Diving into the world of NoSQL databases for scalable and flexible data storage.
-- **MERN Stack:** Building modern, full-stack web applications with MongoDB, Express, React, and Node.js.
-- **Next.js:** Enhancing React applications with server-side rendering and static site generation.
-- **React Native:** Creating seamless, cross-platform mobile experiences.
-- **Django:** Utilizing the power of most popular python backend framework.
+---
 
-## 🏆 Achievements
+## 🧑‍💻 Tech Stack
 
-- **BitNBuild:** Developed innovative solutions under time constraints.
-- **Kriyeta 3.0:** Tackled real-world problems with creative tech approaches.
-- **SKI-Tech Innothon:** Collaborated on cutting-edge projects to solve industry challenges.
+**Languages**
+- JavaScript (ES6+)
+- Python
 
-## 🚀 Experience & Involvements
+**Frontend**
+- React.js
+- Next.js
+- HTML, CSS
 
-- 👨‍💻 Developer at [Acropolis Blockchain Club](#) - Contributing to blockchain projects and learning the ropes of decentralized systems.
-- 🤖 Web Master in [IEEE Computer Society](#) - Engaging with the tech community, staying updated on the latest trends, and fostering a passion for continuous learning.
+**Backend**
+- Node.js
+- Express.js
+- Django (basic)
 
-## 🚀 Current Study Path
+**Databases**
+- MongoDB
+- PostgreSQL
 
-- 📚 **Node.js & MongoDB:** Deepening backend expertise to build robust applications.
-- 🌐 **Next.js:** Enhancing skills in full-stack development with a focus on performance and scalability.
-- 📱 **React Native:** Mastering mobile app development to create high-quality, user-friendly applications.
+**Tools & Concepts**
+- Git & GitHub
+- REST APIs
+- Authentication & Authorization
+- Data Structures & Algorithms
+- DBMS, OOPs, Low Level Design
 
-## 🌟 Projects & Contributions
+---
 
-- **Telematics Solution for the Department of Posts:** Developing a system to optimize trucking operations, featuring real-time data integration, live tracking, and capacity utilization analysis.
-- **Web Development Projects:** Building and maintaining websites for various organizations, focusing on usability and functionality.
-- **Hackathon Projects:** Leading teams to develop innovative solutions in high-pressure environments, consistently achieving top positions.
+## 🚀 Experience & Involvement
 
-## 🌟 Let's Learn Together
+- **Software Engineering Intern – MadVit Solutions**  
+  Built a full-stack expense tracking application with authentication, dashboards,
+  and CRUD workflows using Next.js, Node.js, and MongoDB.
 
-- **LinkedIn:** [Sanskar Jain](https://www.linkedin.com/in/sanskar-jain-6697091a1/)
-- **Twitter:** [Sanskar Jain](https://x.com/Sanskar20227830?t=K80OwalJEqxkQMERns7ooQ&s=09)
+- **Full-Stack Intern – Boxonova Gifting Solutions**  
+  Developed and deployed an e-commerce website enabling direct online sales
+  in a client-facing, time-bound environment.
 
-## 🌱 Passion for Continuous Learning
+- **Webmaster – IEEE Computer Society, AITR**  
+  Managed web presence and contributed to technical initiatives within the community.
 
-- I'm always exploring new technologies and methodologies to stay ahead in the tech world. Whether it's diving into the latest frameworks, participating in tech communities, or collaborating on open-source projects, my journey is driven by a thirst for knowledge and innovation.
+---
 
-## 🌱 Connect and Grow
+## 🏆 Hackathons & Achievements
 
-- Whether you're a fellow learner, tech enthusiast, or just curious about technology, let's connect! I'm always up for discussions, collaborations, and navigating the exciting journey of learning. Feel free to reach out, and let's grow together! 🌱✨
+- 🥇 **Winner** – Kriyeta 4.0 National Level Hackathon  
+  *AI-Powered Healthcare Diagnosis Platform*
 
+- 🥈 **Runner-Up** – Ski-Tech Innothon  
+  *AgriTech Smart Farming Solution*
 
+- 🥉 **Second Runner-Up** – BitNBuild International Hackathon  
+  *Disaster Management System*
 
+- 🥈 **Silver Medalist** – Inter-College Judo Championship
 
+---
 
+## 📌 Featured Projects
 
+### **EduZen – AI-Powered Academic Management Platform**
+- Built a full-stack platform for classroom management and academic tracking.
+- Implemented role-based access, analytics dashboards, and automated quiz generation.
+- Designed scalable APIs and real-time performance insights.
+
+### **AI-Powered Healthcare Diagnosis Platform**
+- Developed a voice-enabled diagnosis dashboard to predict possible illness causes.
+- Enabled digital report sharing and doctor-patient collaboration.
+
+### **AgriTech Smart Farming Platform**
+- Implemented crop disease prediction using ML and computer vision (COCO-SSD).
+- Built AI chatbot for farmers and IoT-based soil dryness detection system.
+
+---
+
+## 🌱 Currently Focused On
+- Advanced backend development with **Node.js & MongoDB**
+- Building scalable applications with **Next.js**
+- Improving system design and API architecture
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/sanskar-jain-6697091a1/
+- **GitHub:** https://github.com/<your-username>
+
+---
+
+⭐ Always open to collaborating on interesting projects and learning from real-world
+engineering problems.
